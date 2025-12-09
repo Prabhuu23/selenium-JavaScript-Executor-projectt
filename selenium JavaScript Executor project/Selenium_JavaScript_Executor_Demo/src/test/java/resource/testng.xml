@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="JSExecutor Suite">
+    <test name="JavaScript Executor Tests">
+        <classes>
+            <class name="JSExecutorTest"/>
+        </classes>
+    </test>
+</suite>
